@@ -20,7 +20,7 @@ export const types = {
   ],
 };
 
-export let currency = "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE";
+export let currency = "/*ERC20 Token Address is Here*/";
 export const presaleRate = "51";
 const softcap = ethers.utils.parseEther("3");
 export const hardcap = ethers.utils.parseEther("5");
